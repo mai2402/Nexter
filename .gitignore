@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# testing
+coverage/
+
+# production
+dist/
+build/
+
+# misc
+.DS_Store
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+turbo/
+
+# IDEs
+.vscode/
+.idea/
+
+# Angular
+.angular/
+
+# Next.js
+.next/
+out/
+
+# Logs
+logs/
+*.log
